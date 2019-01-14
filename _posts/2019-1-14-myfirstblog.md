@@ -1,19 +1,20 @@
 ---
-layout:post
-title: myfirstblog
-subtitle: Hello Blog,
-date: 2019-1-14 
-author: yin
+layout: post
+title:  "博客模板"
+date:   2010-01-14 22:01:54
+author： "yin"
 categories: jekyll
-catalog: true
 tags: demo
 ---
 
+* content
+{:toc}
 
 
-
-
-这是我的第一篇博客，用来测试与作为模板
+#head1
+这是我的第一篇博客
+##head2
+用来测试与作为模板
 
 
 
