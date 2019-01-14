@@ -2,7 +2,6 @@
 layout: post
 title:  "博客模板"
 date:   2010-01-14 22:01:54
-author： "yin"
 categories: jekyll
 tags: demo
 ---
